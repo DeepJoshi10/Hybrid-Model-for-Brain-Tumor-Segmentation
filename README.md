@@ -10,6 +10,7 @@ This repository contains various deep learning models for brain tumor segmentati
 ## Table of Contents
 - [Introduction](#introduction)
 - [Models](#models)
+- [Architecture](#Architecture)
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -26,9 +27,12 @@ The repository contains implementations of the following models:
 - `VGG16_Attention_U-Net`: U-Net with attention mechanism added to the VGG16 encoder.
 - `VGG16_Scaler_Attention_U-Net`: U-Net with scaler attention blocks.
 - `VGG16_MCA_U-Net`: U-Net with multi-scale channel attention.
+## Architecture
+- ![Architecture](https://github.com/ShubhamGajjar/Hybrid-Model-for-Brain-Tumor-Segmentation/assets/66659212/45269eb7-73e2-41e4-8999-afb98a75dfc4)
+
 
 ## Dataset
-The models were trained and evaluated on a comprehensive dataset of brain MRI images with corresponding tumor masks.
+The models were trained and evaluated on a comprehensive dataset of brain MRI images. We have created our own dataset combining it with different sources and based on that we have achieved our Results.
 
 ## Installation
 Clone the repository and install the required dependencies:
