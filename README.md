@@ -42,6 +42,6 @@ cd BrainTumorSegmentation
 pip install -r requirements.txt
 ```
 ## Contributions
-- `ShubhamGajjar`: Model development, integration of preprocessing, dataset preparation, results analysis, and visualizations.
-- `DeepJoshi10`: Collaboration on preprocessing and dataset preparation.
-- `avi-poptani-003`: Collaboration on results analysis and visualizations.
+- [`ShubhamGajjar`](https://github.com/ShubhamGajjar): Model development, integration of preprocessing, dataset preparation, results analysis, and visualizations.
+- [`DeepJoshi10`](https://github.com/DeepJoshi10): Collaboration on preprocessing and dataset preparation.
+- [`avi-poptani-003`](https://github.com/avi-poptani-003): Collaboration on results analysis and visualizations.
