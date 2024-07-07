@@ -15,7 +15,7 @@ This repository contains various deep learning models for brain tumor segmentati
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
+- [Contributing](#contributions)
 - [License](#license)
 
 ## Introduction
@@ -40,3 +40,8 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/ShubhamGajjar/Hybrid-Model-for-Brain-Tumor-Segmentation.git
 cd BrainTumorSegmentation
 pip install -r requirements.txt
+```
+## Contributions
+- `ShubhamGajjar`: Model development, integration of preprocessing, dataset preparation, results analysis, and visualizations.
+- `DeepJoshi10`: Collaboration on preprocessing and dataset preparation.
+- `avi-poptani-003`: Collaboration on results analysis and visualizations.
