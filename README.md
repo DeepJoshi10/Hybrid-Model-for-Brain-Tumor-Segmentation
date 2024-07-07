@@ -15,7 +15,7 @@ This repository contains various deep learning models for brain tumor segmentati
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributions)
+- [Contributions](#contributions)
 - [License](#license)
 
 ## Introduction
