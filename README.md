@@ -28,7 +28,7 @@ The repository contains implementations of the following models:
 - `VGG16_Scaler_Attention_U-Net`: U-Net with scaler attention blocks.
 - `VGG16_MCA_U-Net`: U-Net with multi-scale channel attention.
 ## Architecture
-- ![Architecture](https://github.com/ShubhamGajjar/Hybrid-Model-for-Brain-Tumor-Segmentation/assets/66659212/45269eb7-73e2-41e4-8999-afb98a75dfc4)
+![Architecture](https://github.com/ShubhamGajjar/Hybrid-Model-for-Brain-Tumor-Segmentation/assets/66659212/45269eb7-73e2-41e4-8999-afb98a75dfc4)
 
 
 ## Dataset
